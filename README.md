@@ -9,7 +9,7 @@ Here, I have listed my important twitter threads for easy and organized referenc
 |                                             Topic                                                                                                          |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [DNS as a Distributed System](https://twitter.com/abanoub7asaad/status/1616435515313786882)                                                                |
-| [API Pagination & Offset Pagination](https://twitter.com/avecRue/status/1648106122056814592)                                                               | 
+| [API Pagination & Offset Pagination](https://twitter.com/abanoub7asaad/status/1648067195296010244?t=Z6JrV9iTqiDfBzJil00PZA&s=19)                                                               | 
 | [Why I prefer LeetCode over Codeforces?](https://twitter.com/abanoub7asaad/status/1614348771026141184)                                                     |
 | [An analysis of problem-solving interviews: why do many companies use them?](https://twitter.com/abanoub7asaad/status/1600943357336788992)                 |
 | [The difference between trainting and an internship from a software engineering prespective](https://twitter.com/abanoub7asaad/status/1439976692026646533) |
