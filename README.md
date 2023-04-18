@@ -34,3 +34,4 @@ Here, I have listed my important twitter threads for easy and organized referenc
 | [How to think out of the box?](https://twitter.com/abanoub7asaad/status/1591870516302077954)                                                               |
 | [Difference between input based-learning & ouput-based learning](https://twitter.com/abanoub7asaad/status/1511040229788078089)                             |
 | [Why I love the Korean cinema and series?](https://twitter.com/abanoub7asaad/status/1489798341047300098)                                                   |
+| [4 habits can ruin your life](https://twitter.com/abanoub7asaad/status/1463429158491488257?t=3AJDsfXcXfcBQZlT2g_ELQ&s=19) |
